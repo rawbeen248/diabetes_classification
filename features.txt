@@ -1,0 +1,29 @@
+The explanation of each feature and their normal/dangerous levels:
+
+Glucose:
+    It's the sugar in your blood that gives your body energy.
+    Normal: 70-100 mg/dL.
+    Dangerous: Above 126 mg/dL (may indicate diabetes).
+
+Blood Pressure:
+    Measures the force of blood in your arteries.
+    Normal: Around 120/80 mm Hg.
+    Dangerous: Consistently 130/80 mm Hg or higher (hypertension).
+
+Skin Thickness:
+    Measures skinfold thickness (used in body fat assessment).
+    Normal: Varies, but roughly 10-20 mm.
+    No specific dangerous levels.
+
+Insulin:
+    Regulates blood sugar levels.
+    Normal: 5-15 μIU/mL.
+    Dangerous: Very low (type 1 diabetes) or very high (type 2 diabetes, insulin resistance).
+
+BMI (Body Mass Index):
+    Measures body fat based on height and weight.
+    Normal: 18.5-24.9.
+    Dangerous: Below 18.5 (underweight) or above 30 (obese).
+
+Diabetes Pedigree Function:
+    Estimates diabetes risk based on family history.
